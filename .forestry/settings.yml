@@ -7,7 +7,6 @@ sections:
 - type: document
   path: issue
   label: Issue
-  match: "**/*"
 - type: heading
   label: Content
 - type: document
